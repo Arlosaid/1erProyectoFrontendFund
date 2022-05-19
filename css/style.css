@@ -99,10 +99,10 @@
   background-color: white;
 }
 .img-viaje {
-  margin-right: 15%;
+  margin-right: 18%;
   margin-left: 5%;
   float: right;
-  width: 30%;
+  width: 25%;
   animation: ilustrationPlane ease-in 1s infinite alternate;
 }
 @keyframes ilustrationPlane {
